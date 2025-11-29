@@ -1,2 +1,2 @@
 # MAJOR-PROJECT
-C language Major Project on Employee Management System
+C Programming Major Project on Employee Management.
