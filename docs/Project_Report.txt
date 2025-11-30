@@ -69,8 +69,6 @@ This project also reinforces key C programming concepts such as structures for o
 
 
 7.Future Scope
------------------------------------------------------------------------
-
 *Allow users to edit or remove specific employee fields (name, department, salary, etc.) directly from the interface with improved validation.
 
 *Maintain a separate log file to track changes such as promotions, salary updates, and new hires for better record-keeping.
@@ -85,11 +83,9 @@ This project also reinforces key C programming concepts such as structures for o
 
 *Develop a graphical user interface (GUI) to replace the console-based layout, making the system more user-friendly and visually appealing.
 
----------------------------------------------------------------------
+------------------------------------------------------------------------
 
 8. Conclusion
-----------------------------------------------------------------------
-
 The Employee Management System developed in C successfully provides a simple and effective way to manage employee information through a console-based interface. The system allows users to **add new employees, view all records, search for specific employees, update existing details, and delete records**, ensuring smooth and organized data handling. All employee information is stored permanently using file handling, making it reliable for repeated use without data loss.
 
 This project demonstrates the practical application of core C programming concepts such as **structures, functions, arrays, modular programming, and file operations**. Implementing CRUD operations strengthened the understanding of persistent storage and record manipulation, while designing a structured codebase improved debugging and problem-solving skills.
